@@ -3,7 +3,7 @@ package sub1;
 /*
 날짜: 2021/05/17
 이름: 김민우
-내용: 자바 변수 실습하기
+내용: 자바 변수 실습
 */
 
 public class VariableTest {
