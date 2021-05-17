@@ -3,7 +3,7 @@ package sub1;
 /*
 날짜: 2021/05/17
 이름: 김민우
-내용: HelloWorld 출력하기
+내용: HelloWorld 출력
 */
 
 public class HelloWorld {
