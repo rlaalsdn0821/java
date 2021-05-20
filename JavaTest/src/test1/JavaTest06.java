@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 날짜: 2021/05/20
 이름: 김민우
-내용: 자바 조건문 연습문제.
+내용: 자바 조건문 연습문제..
 */
 
 public class JavaTest06 {

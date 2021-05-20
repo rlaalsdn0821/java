@@ -3,7 +3,7 @@ package test2;
 /*
 날짜: 2021/05/20
 이름: 김민우
-내용: 배열 문자 출력하기
+내용: 배열 문자 출력하기..
 */
 
 public class JavaTest01 {
