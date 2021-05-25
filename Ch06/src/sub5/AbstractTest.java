@@ -3,7 +3,7 @@ package sub5;
 /*
 * 날짜: 2021/05/25
 * 이름: 김민우
-* 내용: 추상클래스 연습하기
+* 내용: 추상클래스 실습하기
 */
 
 public class AbstractTest {
